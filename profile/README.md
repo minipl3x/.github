@@ -2,4 +2,5 @@
 
 # miniplex org
 
-we make ai search engines and ai models and stuff for commercial purposes.
+we make ai search engines and ai models and stuff for commercial purposes.   
+reach out to us if you're a business and want to give us money
