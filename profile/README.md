@@ -6,4 +6,4 @@ we make miniplex (the agentic search engine), microdolphin and other stuff for c
 reach out to us if you're a business and want to give us money
 
 
-![expl](https://github.com/user-attachments/assets/10fba7b3-0156-4946-b758-4bdf9d96c995) ![research](https://github.com/user-attachments/assets/92d36ad4-e851-4657-b867-1a142f4a1187)
+<img src="https://github.com/user-attachments/assets/10fba7b3-0156-4946-b758-4bdf9d96c995" width="300" /> <img src="https://github.com/user-attachments/assets/92d36ad4-e851-4657-b867-1a142f4a1187" width="300" />
